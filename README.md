@@ -2,26 +2,26 @@
 #Modules
 1. User Authentication module
    -login
-   -Basic Role based autherization
-2.Employee management module
+   -Basic Role-based authorization
+2. Employee management module
   -CRUD operation
-3.Department management module
+3. Department management module
   -CRUD operation
-  -Assign employees to the departements
-4.Attendence management module
-  -Record aatendence
-  -View attendence records
-5.Leave management module
+  -Assign employees to the departments
+4. Attendance management module
+  -Record attendance
+  -View attendance records
+5. Leave management module
   -Apply for leave
-  -Aprove/reject leave
+  -Approve/reject leave
   -view leave records
-6.Basic reporting module
+6. Basic reporting module
   -Employee reports
-  -attendence reports
-7.user profile module
+  -attendance reports
+7. user profile module
   -Profile view/ edit
   -change password
 8. Admin Dashboard module
    -Overview
-   -Asign roles, manage user accounts    
+   -Assign roles, manage user accounts    
 
